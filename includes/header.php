@@ -8,6 +8,7 @@
 
 	<!-- bootstrap -->
 	<link rel="stylesheet" href="assests/bootstrap/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
 	<!-- bootstrap theme-->
 	<link rel="stylesheet" href="assests/bootstrap/css/bootstrap-theme.min.css">
 	<!-- font awesome -->
@@ -47,7 +48,7 @@
       </button>
       <!-- <a class="navbar-brand" href="#">Brand</a> -->
 	  <a class="navbar-brand" href="#" style="padding:0px;">
-                    <img src="logo.png" alt="">
+                    <img src="logo.png" style="width:150%; height:100%;" alt="">
                 </a>
     </div>
 
