@@ -47,8 +47,8 @@
         <span class="icon-bar"></span>
       </button>
       <!-- <a class="navbar-brand" href="#">Brand</a> -->
-	  <a class="navbar-brand" href="#" style="padding:0px;">
-                    <img src="logo.png" style="width:150%; height:100%;" alt="">
+	  <a class="navbar-brand" href="#" style="padding: 0px;">
+                    <img src="brand.png" style="margin-left:60px; width:100%; height:100%;" alt="">
                 </a>
     </div>
 
