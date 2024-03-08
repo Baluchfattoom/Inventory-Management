@@ -33,7 +33,7 @@
 	<script src="assests/bootstrap/js/bootstrap.min.js"></script>
 
 </head>
-<body>
+<body style="background-color: rgb(188, 190, 190);">
 
 
 	<nav class="navbar navbar-default navbar-static-top">
